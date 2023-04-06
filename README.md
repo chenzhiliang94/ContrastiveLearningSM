@@ -1,4 +1,4 @@
-# ContrastiveLearningSM
+# ContrastiveLearningTSM
 Contrastive Learning with Task Similarity Matrix
 
 1. Change `model_path = "models/unsupervised_combined"` in `train.py` to the appropriate model
